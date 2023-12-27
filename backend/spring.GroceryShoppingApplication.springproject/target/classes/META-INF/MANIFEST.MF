@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: HP
+Build-Jdk: 20.0.2
+Implementation-Title: GroceryShoppingApplication.springproject
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://spring.io/projects/spring-boot/GroceryShoppi
+ ngApplication.springproject
+Created-By: Maven Integration for Eclipse
+
