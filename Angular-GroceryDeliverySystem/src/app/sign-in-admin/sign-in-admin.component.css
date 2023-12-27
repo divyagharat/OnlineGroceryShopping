@@ -1,0 +1,14 @@
+.background1{
+    background-color: lightskyblue;
+    height: 700px;
+}
+
+#copyright{
+    position: relative;
+    top: -150px;
+}
+
+.content2{
+    position: relative;
+    bottom: 20px;
+}

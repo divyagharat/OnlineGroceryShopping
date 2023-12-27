@@ -1,0 +1,8 @@
+.background{
+    background-color: lightgray;
+    height: 600px;
+}
+
+.content1{
+    overflow-y: hidden;
+}

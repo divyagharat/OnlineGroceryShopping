@@ -1,0 +1,15 @@
+#home{
+    position: relative;
+    left: 1190px;
+    top: 8px;
+    margin: -5px 0px;
+}
+
+.btn{
+    margin-left: 5px !important;
+}
+
+img{
+    height: 440px;
+}
+

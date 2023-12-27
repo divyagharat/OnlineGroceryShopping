@@ -1,0 +1,14 @@
+.background4{
+    background-color: lightseagreen;
+    height: 650px;
+}
+
+.align2{
+    position: relative;
+    bottom: 20px;
+}
+
+#copyright{
+    position: relative;
+    bottom: 120px;
+}
